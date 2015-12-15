@@ -5,4 +5,6 @@ This is the internationalization checkout of the envy project.
 ## Standards
 
 ### Handlebars
-{{i18n key="text" default="text"}}
+```
+    {{i18n key="text" default="text"}}
+```
